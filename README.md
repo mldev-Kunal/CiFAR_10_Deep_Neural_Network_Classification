@@ -11,3 +11,5 @@ Airplanes, Cars, Birds, Cats, Deer, Dogs, Frogs, Horses, Ships, Trucks.
 The dataset consists of 60,000 32x32 color images, 6,000 images of each class.
 
 NOTE-Images have low resolution (32x32) for computationally efficient.
+
+
